@@ -9,8 +9,12 @@ Movement: Arrow keys/WASD keys
 Jump: Spacebar
 Attack: Left mouse click
 
+Game has a dynamic Day/Night cycle implemented.
+
 # German:
 In unserem Spiel „Ninja‘s Creed“ schlüpft man in die Rolle eines Ninjas, der das Ziel verfolgt, den Kaiser umzubringen, nachdem dieser seine Familie ermorden ließ. Ihm stellen sich jedoch mutierte Bären in den Weg, die er besiegen muss und Hindernisse, die er erklimmen muss, um zum Kaiser zu gelangen.
 Bewegung: Pfeiltasten/WASD-Tasten
 Springen: Leertaste
 Angriff: Linker Mausklick
+
+Das Spiel hat einen dynamischen Tag/Nacht-Zyklus implementiert.
